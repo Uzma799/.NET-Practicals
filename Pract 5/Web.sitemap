@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="pract5a.aspx" title="Subjects"  description="">
+    <siteMapNode url="page1.aspx" title="English"  description="" />
+    <siteMapNode url="page2.aspx" title="Marahi"  description="" />
+    <siteMapNode url="page3.aspx" title="Hindi"  description="" />
+  </siteMapNode>
+</siteMap>
